@@ -1,0 +1,14 @@
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\vinij\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
